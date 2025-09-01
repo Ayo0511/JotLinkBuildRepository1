@@ -1,6 +1,6 @@
-## 🛠 How to Install JoLink
+##  How to Install JotLink
 
-1. Download `JoLink.msix` from the latest release.
+1. Download `JotLink.msix` from the latest release.
 
 2. Double-click the `.msix` file to begin installation.
 
@@ -18,7 +18,7 @@ If double-clicking the `.msix` file doesn’t work:
 2. Select **“Run with PowerShell”**
 
 This script will:
-- Install the included certificate (`JoLink.cer`)
+- Install the included certificate (`JotLink.cer`)
 - Register the app package
 - Prompt you through any trust or permission steps
 
